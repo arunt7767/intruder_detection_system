@@ -57,3 +57,19 @@ The outcomes of our Research and Development project have a wide range of applic
 Conclusion:
 -----------
 Our Research and Development project has not only successfully integrated laser technology and computer vision for advanced intrusion detection but has also made significant strides in model selection and optimization. By rigorously evaluating YOLOv5, YOLOv8, SSDLite320_MOBILENET_V3_LARGE, and Facebook DETR-ResNet-50, we have ensured that our system offers the highest accuracy and efficiency while maintaining cost-effectiveness. This innovative project represents a significant contribution to the field of security and opens the door to safer environments across various sectors.
+
+YOLOV5
+<img width="1440" alt="yolov5" src="https://github.com/arunt7767/intruder_detection_system/assets/79745269/f241bc35-4d2e-415f-94e8-7c1669d638dc">
+
+YOLOV8
+<img width="1440" alt="yolov8" src="https://github.com/arunt7767/intruder_detection_system/assets/79745269/c03a79a9-cbf3-4cd0-a907-c942fda24cdc">
+
+DETR
+<img width="1440" alt="SSDLITE320" src="https://github.com/arunt7767/intruder_detection_system/assets/79745269/ab19f22f-b937-45c4-86aa-d8d61a165b66">
+
+ResNet-50
+![resnet](https://github.com/arunt7767/intruder_detection_system/assets/79745269/f8979d6d-2848-4a4f-acf8-3ab6a87aa20c)
+
+
+
+
